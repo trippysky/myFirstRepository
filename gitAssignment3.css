@@ -1,1 +1,23 @@
-some css
+#body{
+	background-color: black;
+	height: 320px;
+	width: 320px;
+}
+h1{
+	color: white;
+}
+p{
+	color: white;
+}
+.imageRow1{
+	display: inline-block;
+	height: 150px;
+	width: 150px;
+	vertical-align: top;
+}
+.imageRow2{
+	display: inline-block;
+	height: 150px;
+	width: 150px;
+	vertical-align: bottom;
+}
